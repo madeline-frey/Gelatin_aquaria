@@ -4,4 +4,4 @@ Designed by Madeline Frey and Grant Lockridge. Contact Madeline Frey (mrfrey@ucd
 
 See the Guide files for details on materials, assembly, and motivations.
 
-![Alt text](Gelatin_aquaria/Drawing_Final.jpg)
+![Drawing](Drawing_Final.jpg)
